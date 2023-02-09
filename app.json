@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "finanzas",
-    "slug": "finanzas",
+    "name": "airbnb",
+    "slug": "airbnb",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

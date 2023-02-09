@@ -1,10 +1,10 @@
 import { StyleSheet, Text, View } from 'react-native'
 import React from 'react'
 
-export default function ProfileStack() {
+export default function RentStack() {
   return (
     <View>
-      <Text>ProfileStack</Text>
+      <Text>RentStack</Text>
     </View>
   )
 }
